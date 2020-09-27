@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Resumé
-subtitle: Updated as of September 2020
+subtitle: I'll upload it eventually!
 ---
 
