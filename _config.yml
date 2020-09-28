@@ -14,7 +14,7 @@ author: Bryan Dorf
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Get Rich or Go Broke Trying:
+  Due Diligence:
    - Stonks: "https://brrr.money/"
    - WallStreetBets: "https://www.reddit.com/r/wallstreetbets/"
   Resumé: "resume"
@@ -48,10 +48,10 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: bryandorf
+  spotify: bryandorf
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
+  twitch: ninja
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
@@ -107,7 +107,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/glacierwallpaper.jpg"
+page-img: "/assets/img/chart1.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
