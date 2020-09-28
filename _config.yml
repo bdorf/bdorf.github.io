@@ -14,10 +14,10 @@ author: Bryan Dorf
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Get Rich or Go Broke Trying:
+   - Stonks: "https://brrr.money/"
+   - WallStreetBets: "https://www.reddit.com/r/wallstreetbets/"
   Resumé: "resume"
- # Projects:
- #  - Placeholder: "https://beautifuljekyll.com"
- # - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
